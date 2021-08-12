@@ -8,7 +8,9 @@ export const Container = styled.section`
   justify-content: center;
 `;
 
-export const MessageContainer = styled.section``;
+export const MessageContainer = styled.section`
+  margin-top: 10px;
+`;
 
 export const Title = styled.p`
   font-size: 24px;
